@@ -324,6 +324,7 @@
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales" target="_parent">Materiales de Producto</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-circuitos" target="_parent">Materiales Globales</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-locales" target="_parent">Materiales Locales</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/workshops" target="_parent">Workshops</a></li>
                                           </ul>
                         
                         </li>
